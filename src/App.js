@@ -1,9 +1,10 @@
-import './App.css';
+import "./App.css";
+import TopHeader from "./components/Header/TopHeader";
 
 function App() {
   return (
     <div className="App">
-
+      <TopHeader />
     </div>
   );
 }

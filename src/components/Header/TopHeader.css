@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+  font-family: "Dongle", sans-serif;
+}
+
+.topHeader {
+  /* border: 2px solid green; */
+  background-color: #181818;
+  color: #808080;
+  font-weight: 100;
+  text-align: center;
+}
+
+.topHeader h3 {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  letter-spacing: 2px;
+}
