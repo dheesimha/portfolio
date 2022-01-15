@@ -1,10 +1,16 @@
 import React from "react";
+import Dots from "./Dots";
+import TabContainer from "./TabContainer";
 import "./TopHeader.css";
 
 function TopHeader() {
   return (
     <div className="topHeader">
-      <h3>dheemanth_narasimha</h3>
+      <div className="topHead">
+        <Dots />
+        <h3>dheemanth_narasimha</h3>
+      </div>
+      <TabContainer />
     </div>
   );
 }

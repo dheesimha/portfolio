@@ -1,0 +1,50 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.dots {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.red {
+  width: 8px;
+  height: 8px;
+  background-color: #ff6363;
+  border-radius: 50%;
+  margin: 2px 4px;
+  margin-left: 6px;
+  cursor: pointer;
+}
+
+.green {
+  width: 8px;
+  height: 8px;
+  background-color: #95cd41;
+  border-radius: 50%;
+  margin: 2px 4px;
+  cursor: pointer;
+}
+
+.yellow {
+  width: 8px;
+  height: 8px;
+  background-color: #ffe400;
+  border-radius: 50%;
+  margin: 2px 4px;
+  cursor: pointer;
+}
+
+.red:hover {
+  background-color: red;
+}
+
+.yellow:hover {
+  background-color: #ffe400;
+}
+
+.green:hover {
+  background-color: green;
+}
