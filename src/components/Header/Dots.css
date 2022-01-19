@@ -16,7 +16,6 @@
   border-radius: 50%;
   margin: 2px 4px;
   margin-left: 6px;
-  cursor: pointer;
 }
 
 .green {
@@ -25,7 +24,6 @@
   background-color: #95cd41;
   border-radius: 50%;
   margin: 2px 4px;
-  cursor: pointer;
 }
 
 .yellow {
@@ -34,7 +32,7 @@
   background-color: #ffe400;
   border-radius: 50%;
   margin: 2px 4px;
-  cursor: pointer;
+  /* cursor: pointer; */
 }
 
 .red:hover {
