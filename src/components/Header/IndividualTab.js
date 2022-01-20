@@ -10,7 +10,7 @@ function IndividualTab(props) {
   };
   return (
     <div
-      className="{isActive ? demo : singleTab}"
+      className={isActive ? "active singleTab" : "singleTab"}
       id={id}
       onClick={colorChange}
     >

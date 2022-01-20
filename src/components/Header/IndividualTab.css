@@ -29,26 +29,30 @@
   font-size: 13px;
 }
 
-#tab-1 {
+/* #tab-1 {
   background-color: #2b2b2b;
   border-left: none;
   border-right: none;
   border-bottom: none;
   border-top-color: #ea5c2b;
-}
-
-#tab-2 {
-  background-color: #2b2b2b;
-  border-left: none;
-  border-right: none;
-  border-bottom: none;
-  border-top-color: #ea5c2b;
-}
-
-.singleTab:hover {
-  background-color: purple;
-}
-
-/* .demo {
-  background-color: white;
 } */
+
+/* #tab-2 {
+  background-color: #2b2b2b;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  border-top-color: #ea5c2b;
+} */
+
+/* .singleTab:hover {
+  background-color: purple;
+} */
+
+.active {
+  background-color: #2b2b2b;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  border-top-color: #ea5c2b;
+}
