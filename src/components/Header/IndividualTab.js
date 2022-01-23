@@ -8,6 +8,7 @@ function IndividualTab(props) {
   const colorChange = () => {
     setIsActive(!isActive);
   };
+
   return (
     <div
       className={isActive ? "active singleTab" : "singleTab"}
