@@ -1,0 +1,71 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: "Dongle", sans-serif;
+}
+
+.socials {
+  /* border: 2px solid blue; */
+  display: flex;
+  flex-direction: row;
+}
+
+a {
+  color: none;
+}
+
+.socialsText {
+  font-size: 20px;
+  color: #aaa492;
+  border: 1px solid #444941;
+  padding: 2px 5px;
+  /* margin: 0px 2px; */
+  justify-content: center;
+  align-items: center;
+}
+
+.github {
+  border: 1px solid #444941;
+  padding: 2px 5px;
+  font-size: 2px;
+  justify-content: center;
+  align-items: center;
+  color: #aaa492;
+}
+
+.gmail {
+  border: 1px solid #444941;
+  padding: 2px 5px;
+  font-size: 2px;
+  justify-content: center;
+  align-items: center;
+  color: #aaa492;
+}
+
+.linkedin {
+  border: 1px solid #444941;
+  padding: 2px 5px;
+  font-size: 2px;
+  justify-content: center;
+  align-items: center;
+  color: #aaa492;
+}
+
+a:link,
+a:visited {
+  color: #aaa492 !important;
+  text-decoration: none;
+}
+
+.gmail:hover {
+  background-color: black;
+}
+
+.linkedin:hover {
+  background-color: black;
+}
+
+.github:hover {
+  background-color: black;
+}

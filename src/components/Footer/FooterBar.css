@@ -1,0 +1,19 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.foobar {
+  width: 100%;
+  border: 3px solid #444941;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  position: fixed;
+  bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  background-color: #242323;
+  align-items: baseline;
+}
