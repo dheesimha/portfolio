@@ -1,0 +1,9 @@
+.DateTime {
+  margin-left: auto;
+}
+
+p.time {
+  padding: 0px 5px;
+  color: #aaa492;
+  font-size: large;
+}
