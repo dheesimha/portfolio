@@ -1,14 +1,7 @@
-* {
-  padding: 0px;
-  margin: 0px;
-  box-sizing: border-box;
-  font-family: "Dongle", sans-serif;
-}
-
 .socials {
-  /* border: 2px solid blue; */
   display: flex;
   flex-direction: row;
+  background-color: #242323 !important;
 }
 
 a {
@@ -17,8 +10,8 @@ a {
 
 .socialsText {
   font-size: 20px;
-  color: #aaa492;
-  border: 1px solid #444941;
+  color: #aaa492 !important;
+  /* border: 1px solid #444941 !important; */
   padding: 2px 5px;
   /* margin: 0px 2px; */
   justify-content: center;
@@ -26,30 +19,30 @@ a {
 }
 
 .github {
-  border: 1px solid #444941;
+  /* border: 1px solid #444941 !important; */
   padding: 2px 5px;
   font-size: 2px;
   justify-content: center;
   align-items: center;
-  color: #aaa492;
+  color: #aaa492 !important;
 }
 
 .gmail {
-  border: 1px solid #444941;
+  /* border: 1px solid #444941 !important; */
   padding: 2px 5px;
   font-size: 2px;
   justify-content: center;
   align-items: center;
-  color: #aaa492;
+  color: #aaa492 !important;
 }
 
 .linkedin {
-  border: 1px solid #444941;
+  /* border: 1px solid #444941 !important; */
   padding: 2px 5px;
   font-size: 2px;
   justify-content: center;
   align-items: center;
-  color: #aaa492;
+  color: #aaa492 !important;
 }
 
 a:link,
@@ -59,13 +52,13 @@ a:visited {
 }
 
 .gmail:hover {
-  background-color: black;
+  background-color: black !important;
 }
 
 .linkedin:hover {
-  background-color: black;
+  background-color: black !important;
 }
 
 .github:hover {
-  background-color: black;
+  background-color: black !important;
 }

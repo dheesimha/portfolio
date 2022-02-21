@@ -4,6 +4,7 @@
 
 p.time {
   padding: 0px 5px;
-  color: #aaa492;
+  color: #aaa492 !important;
+  /* background-color: #242323 !important; */
   font-size: large;
 }

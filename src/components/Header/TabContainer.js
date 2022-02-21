@@ -53,35 +53,35 @@ function TabContainer() {
         className={tab1 ? "active singleTab" : "singleTab"}
         onClick={tab1ClickHandler}
       >
-        <h2>_home</h2>
+        <h2 className="h2-heading">_home</h2>
       </div>
 
       <div
         className={tab2 ? "active singleTab" : "singleTab"}
         onClick={tab2ClickHandler}
       >
-        <h2>_about me</h2>
+        <h2 className="h2-heading">_about me</h2>
       </div>
 
       <div
         className={tab3 ? "active singleTab" : "singleTab"}
         onClick={tab3ClickHandler}
       >
-        <h2>_projects</h2>
+        <h2 className="h2-heading">_projects</h2>
       </div>
 
       <div
         className={tab4 ? "active singleTab" : "singleTab"}
         onClick={tab4ClickHandler}
       >
-        <h2>_resume</h2>
+        <h2 className="h2-heading">_resume</h2>
       </div>
 
       <div
         className={tab5 ? "active singleTab" : "singleTab"}
         onClick={tab5ClickHandler}
       >
-        <h2>_contact</h2>
+        <h2 className="h2-heading">_contact</h2>
       </div>
     </div>
   );

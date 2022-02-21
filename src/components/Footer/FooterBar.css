@@ -1,12 +1,6 @@
-* {
-  padding: 0px;
-  margin: 0px;
-  box-sizing: border-box;
-}
-
 .foobar {
   width: 100%;
-  border: 3px solid #444941;
+  /* border: 3px solid #444941 !important ; */
   border-bottom: none;
   border-left: none;
   border-right: none;
@@ -14,6 +8,6 @@
   bottom: 0px;
   display: flex;
   flex-direction: row;
-  background-color: #242323;
+  /* background-color: #242323 !important; */
   align-items: baseline;
 }

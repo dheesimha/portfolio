@@ -1,0 +1,19 @@
+.terminal {
+  /* border: 2px solid pink; */
+  margin-top: 90px;
+  margin-left: 180px;
+}
+
+.terminal-intro {
+  color: orange !important;
+  font-size: 20px;
+}
+
+textarea {
+  /* background-color: #1d1d1d; */
+  caret-color: pink;
+  font-size: 44px;
+  color: white;
+  overflow: hidden;
+  resize: none;
+}

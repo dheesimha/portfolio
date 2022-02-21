@@ -6,7 +6,7 @@
 }
 
 .topHead {
-  background-color: #242323;
+  background-color: #242323 !important;
   /* color: #808080; */
   color: #aaa492;
   font-weight: 100;
@@ -21,4 +21,5 @@
   padding-bottom: 5px;
   letter-spacing: 2px;
   flex-grow: 1;
+  background-color: #242323;
 }

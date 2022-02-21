@@ -12,8 +12,9 @@ function DateTime() {
   }, []);
 
   return (
-    <div class="DateTime">
-      <p class="time">{time}</p>
+    <div className="DateTime">
+      <p className="time">{time}</p>
+      {/* Credits : Home page image : <a href="https://www.freepik.com/vectors/coder">Coder vector created by upklyak - www.freepik.com</a> */}
     </div>
   );
 }
