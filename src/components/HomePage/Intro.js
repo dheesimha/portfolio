@@ -12,10 +12,11 @@ function Intro() {
         <h2>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Full stack Web Developer</h2>
 
         <div className="hero-image">
-          <img
+          {/* <img
             src="/developer-image.png"
             alt="An animated developer illustration"
-          />
+          /> */}
+          <img src="/business.png" alt="An animated developer illustration" />
         </div>
 
         <div className="brief-intro"></div>
