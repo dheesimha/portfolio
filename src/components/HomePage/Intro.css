@@ -4,7 +4,6 @@
   margin-left: 150px;
   line-height: 22px;
   height: 700px;
-  /* /* width: 100%; */
 }
 .introBox {
   width: 100%;
@@ -40,6 +39,7 @@
   flex-direction: row-reverse;
   /* border: 2px solid green; */
   margin-top: -182px;
+  margin-right: 32px;
 }
 
 .hero-image img {
@@ -72,8 +72,7 @@ img {
 }
 
 .brief-intro {
-  margin-top: -140px;
-  z-index: 2;
+  margin-top: -220px;
 }
 
 .engineering {
