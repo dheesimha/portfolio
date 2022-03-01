@@ -1,0 +1,12 @@
+.contact-page-title {
+  color: white;
+  text-align: center;
+  font-size: 100px;
+  letter-spacing: 3px;
+}
+
+.contact-flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
