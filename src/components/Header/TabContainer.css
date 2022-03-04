@@ -35,6 +35,12 @@
   border-right-color: #444941;
   border-bottom-color: #444941;
   font-size: 13px;
+  transition: 0.3s;
+}
+
+.singleTab:hover {
+  background-color: #212121;
+  color: #f0e5cf;
 }
 
 .active {

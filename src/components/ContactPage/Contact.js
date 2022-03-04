@@ -5,7 +5,7 @@ import ContactCard from "./ContactCard";
 function Contact() {
   return (
     <div className="contact">
-      <h1 class="contact-page-title">Let's talk !</h1>
+      <h1 className="contact-page-title">Let's talk !</h1>
       <div className="contact-flex">
         <ContactCard
           title="Email"
