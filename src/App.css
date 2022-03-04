@@ -1,4 +1,7 @@
 * {
   background-color: #1d1d1d;
   cursor: default;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
 }

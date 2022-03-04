@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./TabContainer.css";
+import { Link } from "react-router-dom";
 
 function TabContainer() {
   const [tab1, setTab1] = useState(true);
@@ -49,12 +50,14 @@ function TabContainer() {
   };
   return (
     <div className="tabContainer">
-      <div
-        className={tab1 ? "active singleTab" : "singleTab"}
-        onClick={tab1ClickHandler}
-      >
-        <h2 className="h2-heading">_home</h2>
-      </div>
+      <Link to="/">
+        <div
+          className={tab1 ? "active singleTab" : "singleTab"}
+          onClick={tab1ClickHandler}
+        >
+          <h2 className="h2-heading">_home</h2>
+        </div>
+      </Link>
 
       <div
         className={tab2 ? "active singleTab" : "singleTab"}
@@ -77,12 +80,14 @@ function TabContainer() {
         <h2 className="h2-heading">_resume</h2>
       </div>
 
-      <div
-        className={tab5 ? "active singleTab" : "singleTab"}
-        onClick={tab5ClickHandler}
-      >
-        <h2 className="h2-heading">_contact</h2>
-      </div>
+      <Link to="/contact">
+        <div
+          className={tab5 ? "active singleTab" : "singleTab"}
+          onClick={tab5ClickHandler}
+        >
+          <h2 className="h2-heading">_contact</h2>
+        </div>
+      </Link>
     </div>
   );
 }
