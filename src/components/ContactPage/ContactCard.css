@@ -1,5 +1,56 @@
 .contact_card {
-  border: 2px solid green;
-  flex-wrap: wrap;
+  border: 2px solid rgb(0, 0, 0);
+  /* flex-wrap: wrap; */
   margin-top: 50px;
+  color: white;
+  text-align: center;
+  width: 270px;
+  height: 220px;
+  box-shadow: 23px 0px 33px 22px rgb(0, 0, 0);
+  transition: 0.3s;
+}
+
+.title {
+  font-size: 42px;
+  background-color: transparent;
+}
+
+.content-text {
+  font-size: 27px;
+  background-color: transparent;
+}
+
+a {
+  background-color: transparent;
+}
+
+img {
+  -webkit-animation: mover 2s infinite alternate;
+  animation: mover 2s infinite alternate;
+  cursor: pointer;
+  background-color: transparent;
+}
+@-webkit-keyframes mover {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-20px);
+  }
+}
+@keyframes mover {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-20px);
+  }
+}
+
+/* img:hover {
+  width: 120px;
+} */
+
+.contact_card:hover {
+  border-color: grey;
 }
