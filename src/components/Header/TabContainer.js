@@ -3,7 +3,7 @@ import "./TabContainer.css";
 import { Link } from "react-router-dom";
 
 function TabContainer() {
-  const [tab1, setTab1] = useState(true);
+  const [tab1, setTab1] = useState(false);
   const [tab2, setTab2] = useState(false);
   const [tab3, setTab3] = useState(false);
   const [tab4, setTab4] = useState(false);
