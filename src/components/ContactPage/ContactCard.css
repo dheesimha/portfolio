@@ -24,7 +24,7 @@ a {
   background-color: transparent;
 }
 
-img {
+.animate-image {
   -webkit-animation: mover 2s infinite alternate;
   animation: mover 2s infinite alternate;
   cursor: pointer;

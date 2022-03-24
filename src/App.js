@@ -3,6 +3,7 @@ import TopHeader from "./components/Header/TopHeader";
 import Intro from "./components/HomePage/Intro";
 import Contact from "./components/ContactPage/Contact";
 import About from "./components/AboutPage/About";
+import Projects from "./components/Projectss/Projects";
 import "./App.css";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
@@ -18,6 +19,7 @@ function App() {
           <Route exact path="/" element={<Intro />}></Route>
           <Route exact path="/contact" element={<Contact />}></Route>
           <Route exact path="/about" element={<About />}></Route>
+          <Route exact path="/projects" element={<Projects />}></Route>
         </Routes>
       </Router>
     </div>

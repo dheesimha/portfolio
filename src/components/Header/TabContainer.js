@@ -68,12 +68,14 @@ function TabContainer() {
         </div>
       </Link>
 
-      <div
-        className={tab3 ? "active singleTab" : "singleTab"}
-        onClick={tab3ClickHandler}
-      >
-        <h2 className="h2-heading">_projects</h2>
-      </div>
+      <Link to="/projects">
+        <div
+          className={tab3 ? "active singleTab" : "singleTab"}
+          onClick={tab3ClickHandler}
+        >
+          <h2 className="h2-heading">_projects</h2>
+        </div>
+      </Link>
 
       <div
         className={tab4 ? "active singleTab" : "singleTab"}

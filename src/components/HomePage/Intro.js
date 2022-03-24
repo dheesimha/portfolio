@@ -33,9 +33,18 @@ function Intro() {
               src="https://img.icons8.com/external-xnimrodx-lineal-gradient-xnimrodx/64/000000/external-working-virus-xnimrodx-lineal-gradient-xnimrodx.png"
               alt="programmer working"
             />
-            Interning at <u>Brane Enterprises</u> as the Platform
+            &nbsp;Interning at <u>Brane Enterprises</u> as the Platform
           </h2>
           <h2>&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;QA Engineer</h2>
+          <br />
+          <h2>
+            <img
+              className="motion"
+              src="https://img.icons8.com/external-xnimrodx-lineal-gradient-xnimrodx/64/000000/external-workout-hobbies-and-free-time-xnimrodx-lineal-gradient-xnimrodx.png"
+              alt="passion icon"
+            />
+            &nbsp;Passionate about fitness,bikes and entrepreneurship
+          </h2>
           <br />
           <h2>
             <img

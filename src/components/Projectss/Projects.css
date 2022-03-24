@@ -1,0 +1,49 @@
+.project-section {
+  margin-top: 20px;
+  height: 90px;
+  text-align: center;
+  color: white;
+  background-color: #2b2b2b;
+  border: 2px dotted grey;
+  border-radius: 15px !important;
+}
+
+.project-section h1 {
+  background-color: transparent;
+  font-size: 53px;
+  letter-spacing: 2px;
+}
+
+.project-content {
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+}
+
+.project1,
+.project2 {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 2;
+  /* border: 2px solid wheat; */
+}
+
+.project1-content,
+.project2-content {
+  /* border: 2px solid yellow; */
+  margin-left: 75px;
+}
+
+.project2,
+.project2-image,
+.project2-content {
+  background-color: #2b2b2b !important;
+}
+
+.project2-content h1 {
+  background-color: #2b2b2b;
+}
+
+.project2-content h2 {
+  background-color: #2b2b2b;
+}
