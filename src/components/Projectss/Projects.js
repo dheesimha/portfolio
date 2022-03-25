@@ -11,10 +11,7 @@ function Projects() {
       <div className="project-content">
         <div className="project1">
           <div className="project1-image">
-            <img
-              src="https://img.icons8.com/color/144/000000/bitcoin--v1.png"
-              alt="bitcoin"
-            />
+            <img src="/btc-image.jpg" alt="bitcoin" />
           </div>
           <div className="project1-content">
             <h1>DeCrypt</h1>
@@ -29,8 +26,8 @@ function Projects() {
           <div className="project2-image">
             <img
               className="project2-image"
-              src="/developer-image.png"
-              alt="dev"
+              src="/cfg_logo.jpeg"
+              alt="jpmc cfg logo"
             />
           </div>
           <div className="project2-content">
@@ -44,7 +41,7 @@ function Projects() {
 
         <div className="project1">
           <div className="project1-image">
-            <img src="/developer-image.png" alt="dev" />
+            <img src="/rpa.jpg" alt="a robot automating tasks" />
           </div>
           <div className="project1-content">
             <h1>Name of the project</h1>
@@ -59,8 +56,8 @@ function Projects() {
           <div className="project2-image">
             <img
               className="project2-image"
-              src="/developer-image.png"
-              alt="dev"
+              src="/networking.jpg"
+              alt="network of computers"
             />
           </div>
           <div className="project2-content">
