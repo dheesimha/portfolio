@@ -8,7 +8,7 @@ function TopHeader() {
     <div className="topHeader">
       <div className="topHead">
         <Dots />
-        <h3>dheemanth_narasimha</h3>
+        <h3>dheemanth_a.n.</h3>
       </div>
       <TabContainer />
     </div>

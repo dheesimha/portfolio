@@ -7,7 +7,7 @@ function Intro() {
         <h3>Hello! I am</h3>
 
         <h1>
-          <pre>&nbsp; &nbsp;&nbsp;&nbsp; Dheemanth Narasimha</pre>
+          <pre>&nbsp; &nbsp;&nbsp;&nbsp; Dheemanth A.N.</pre>
         </h1>
         <h2>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Full stack Web Developer</h2>
 
