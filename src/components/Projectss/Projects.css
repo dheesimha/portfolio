@@ -39,7 +39,6 @@
 
 .project1-content,
 .project2-content {
-  /* border: 2px solid yellow; */
   margin: 40px;
   margin-left: 105px;
 }
@@ -69,7 +68,6 @@
 
 .project2-content h2 {
   background-color: #2b2b2b;
-  /* font-size: 25px; */
 }
 
 .project1-content,
