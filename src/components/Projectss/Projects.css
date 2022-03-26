@@ -1,17 +1,24 @@
 .project-section {
-  margin-top: 20px;
+  margin-top: 10px;
   height: 90px;
   text-align: center;
   color: white;
-  background-color: #2b2b2b;
-  border: 2px dotted grey;
-  border-radius: 15px !important;
+  /* background-color: #2b2b2b; */
+  border: 2px solid grey;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+
+  /*border-radius: 15px !important; */
+  margin-bottom: 25px;
 }
 
 .project-section h1 {
   background-color: transparent;
-  font-size: 53px;
+  font-size: 70px;
   letter-spacing: 2px;
+  color: #5d9aff;
+  margin-bottom: 10px;
 }
 
 .project-content {
@@ -33,7 +40,8 @@
 .project1-content,
 .project2-content {
   /* border: 2px solid yellow; */
-  margin-left: 75px;
+  margin: 40px;
+  margin-left: 135px;
 }
 
 .project2,
@@ -42,10 +50,54 @@
   background-color: #2b2b2b !important;
 }
 
+.project1-content h1 {
+  font-size: 55px;
+  letter-spacing: 2px;
+  color: #aaa492;
+}
+
+.project-content h2 {
+  font-size: 30px;
+  color: white;
+}
+
 .project2-content h1 {
   background-color: #2b2b2b;
+  font-size: 55px;
+  color: #aaa492;
 }
 
 .project2-content h2 {
   background-color: #2b2b2b;
+  /* font-size: 25px; */
+}
+
+.project1-content,
+.project2-content p {
+  font-size: 25px;
+  color: #5d9aff;
+}
+
+.project-content a {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.project2-content {
+  background-color: transparent;
+}
+
+.project2-content p {
+  background-color: transparent;
+}
+
+.project1-content .btc-img,
+.cfg-img,
+.rpa-img,
+.networking-img {
+  margin: 20px;
+  width: 500px;
+  height: 300px;
+  border: 2px solid white;
+  margin-bottom: 45px;
 }

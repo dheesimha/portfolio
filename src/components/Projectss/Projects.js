@@ -11,24 +11,41 @@ function Projects() {
       <div className="project-content">
         <div className="project1">
           <div className="project1-image">
-            <img src="/btc-image.jpg" alt="bitcoin" />
+            <img className="btc-img" src="/btc-image.jpg" alt="bitcoin" />
           </div>
           <div className="project1-content">
             <h1>DeCrypt</h1>
             <h2>Project Description</h2>
+            <p>A customized collection of your wishlist cryptocurrencies.</p>
             <h2>Key features</h2>
+            <p>
+              This web app allows real-time and live cryptocurrency tracking in
+              INR. The user can select his or her coins of interest and keep
+              track of them without having to search in a stack of coins every
+              time.
+            </p>
             <h2>Tech stack </h2>
+            <p>
+              Languages/ Frameworks: HTML5, CSS3,Bootstrap, JavaScript,
+              EJS,Express Other Tools: Binance Websockets, NPM packages,ROBO 3T,
+              Database: MongoDB (NoSQL)
+            </p>
             <h2>View project</h2>
+            <p>
+              <a
+                href="https://github.com/dheesimha/deCrypt"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Click to view the project on Github
+              </a>
+            </p>
           </div>
         </div>
 
         <div className="project2">
           <div className="project2-image">
-            <img
-              className="project2-image"
-              src="/cfg_logo.jpeg"
-              alt="jpmc cfg logo"
-            />
+            <img className="cfg-img" src="/m2d.png" alt="mill2door logo" />
           </div>
           <div className="project2-content">
             <h1>Name of the project</h1>
@@ -41,7 +58,11 @@ function Projects() {
 
         <div className="project1">
           <div className="project1-image">
-            <img src="/rpa.jpg" alt="a robot automating tasks" />
+            <img
+              className="rpa-img"
+              src="/rpa.jpg"
+              alt="a robot automating tasks"
+            />
           </div>
           <div className="project1-content">
             <h1>Name of the project</h1>
@@ -55,7 +76,7 @@ function Projects() {
         <div className="project2">
           <div className="project2-image">
             <img
-              className="project2-image"
+              className="networking-img"
               src="/networking.jpg"
               alt="network of computers"
             />
