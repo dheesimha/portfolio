@@ -41,7 +41,7 @@
 .project2-content {
   /* border: 2px solid yellow; */
   margin: 40px;
-  margin-left: 135px;
+  margin-left: 105px;
 }
 
 .project2,
@@ -91,7 +91,7 @@
   background-color: transparent;
 }
 
-.project1-content .btc-img,
+.btc-img,
 .cfg-img,
 .rpa-img,
 .networking-img {
