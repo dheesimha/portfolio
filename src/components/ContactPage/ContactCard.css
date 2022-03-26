@@ -1,6 +1,5 @@
 .contact_card {
   border: 2px solid rgb(0, 0, 0);
-  /* flex-wrap: wrap; */
   margin-top: 50px;
   color: white;
   text-align: center;
@@ -47,10 +46,6 @@ a {
     transform: translateY(-20px);
   }
 }
-
-/* img:hover {
-  width: 120px;
-} */
 
 .contact_card:hover {
   border-color: grey;

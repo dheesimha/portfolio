@@ -36,7 +36,6 @@
 .hero-image {
   display: flex;
   flex-direction: row-reverse;
-  /* border: 2px solid green; */
   margin-top: -182px;
   margin-right: 32px;
 }

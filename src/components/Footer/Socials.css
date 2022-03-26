@@ -11,15 +11,12 @@ a {
 .socialsText {
   font-size: 20px;
   color: #aaa492 !important;
-  /* border: 1px solid #444941 !important; */
   padding: 2px 5px;
-  /* margin: 0px 2px; */
   justify-content: center;
   align-items: center;
 }
 
 .github {
-  /* border: 1px solid #444941 !important; */
   padding: 2px 5px;
   font-size: 2px;
   justify-content: center;
@@ -28,7 +25,6 @@ a {
 }
 
 .gmail {
-  /* border: 1px solid #444941 !important; */
   padding: 2px 5px;
   font-size: 2px;
   justify-content: center;
@@ -37,7 +33,6 @@ a {
 }
 
 .linkedin {
-  /* border: 1px solid #444941 !important; */
   padding: 2px 5px;
   font-size: 2px;
   justify-content: center;

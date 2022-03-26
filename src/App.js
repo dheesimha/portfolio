@@ -8,8 +8,6 @@ import Resume from "./components/ResumePage/Resume";
 import "./App.css";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
-// import { InterestsRounded } from "@mui/icons-material";
-
 function App() {
   return (
     <div className="App">
