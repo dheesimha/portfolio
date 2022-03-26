@@ -22,7 +22,7 @@ function Contact() {
           link="tel:+91 7019817873"
         />
         <ContactCard
-          title="Linkedin"
+          title="LinkedIn"
           source="/linkedin.png"
           altTag="Linkedin"
           text="Find me on LinkedIn"
