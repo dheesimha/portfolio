@@ -1,3 +1,3 @@
 # About Project
 
-This project is a personal potfolio of Dheemanth A.N.
+This project is a personal portfolio of Dheemanth A.N.
