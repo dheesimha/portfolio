@@ -51,6 +51,7 @@
 .motion {
   -webkit-animation: mover 2s infinite alternate;
   animation: mover 2s infinite alternate;
+  padding-right: 10px;
 }
 @-webkit-keyframes mover {
   0% {
@@ -80,4 +81,25 @@
 u:hover {
   color: white;
   cursor: default;
+}
+
+.cs,
+.qa {
+  padding-left: 75px;
+}
+
+@media screen and (max-width: 800px) {
+  .hero-image img {
+    visibility: hidden;
+  }
+
+  .intro h3 {
+    padding-top: -23px;
+  }
+
+  .introBox {
+    text-align: left !important;
+    /* overflow-x: hidden; */
+    /* position: relative; */
+  }
 }

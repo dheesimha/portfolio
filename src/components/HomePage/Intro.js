@@ -7,9 +7,11 @@ function Intro() {
         <h3>Hello! I am</h3>
 
         <h1>
-          <pre>&nbsp; &nbsp;&nbsp;&nbsp; Dheemanth A.N.</pre>
+          <pre> Dheemanth A.N.</pre>
         </h1>
-        <h2>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Full stack Web Developer</h2>
+        <h2>
+          <pre> Full stack Web Developer</pre>
+        </h2>
 
         <div className="hero-image">
           <img src="/business.png" alt="An animated developer illustration" />
@@ -24,7 +26,7 @@ function Intro() {
             />
             Currently pursuing third year of engineering
           </h2>
-          <h2>&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;in Computer Science</h2>
+          <h2 class="cs">in Computer Science</h2>
 
           <br />
           <h2>
@@ -33,9 +35,9 @@ function Intro() {
               src="https://img.icons8.com/external-xnimrodx-lineal-gradient-xnimrodx/64/000000/external-working-virus-xnimrodx-lineal-gradient-xnimrodx.png"
               alt="programmer working"
             />
-            &nbsp;Interning at <u>Brane Enterprises</u> as the Platform
+            Interning at <u>Brane Enterprises</u> as the Platform
           </h2>
-          <h2>&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;QA Engineer</h2>
+          <h2 class="qa">QA Engineer</h2>
           <br />
           <h2>
             <img
