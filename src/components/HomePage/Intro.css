@@ -98,8 +98,12 @@ u:hover {
   }
 
   .introBox {
-    text-align: left !important;
-    /* overflow-x: hidden; */
-    /* position: relative; */
+    text-align: center !important;
+    margin-left: -105px;
+  }
+
+  h2 {
+    display: inline-block;
+    text-align: center !important;
   }
 }
