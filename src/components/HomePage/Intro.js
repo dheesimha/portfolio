@@ -18,44 +18,48 @@ function Intro() {
         </div>
 
         <div className="brief-intro">
+          <img
+            className="motion"
+            src="https://img.icons8.com/external-xnimrodx-lineal-gradient-xnimrodx/64/000000/external-graduation-cap-education-xnimrodx-lineal-gradient-xnimrodx-2.png"
+            alt="hat"
+          />
           <h2>
-            <img
-              className="motion"
-              src="https://img.icons8.com/external-xnimrodx-lineal-gradient-xnimrodx/64/000000/external-graduation-cap-education-xnimrodx-lineal-gradient-xnimrodx-2.png"
-              alt="hat"
-            />
-            Currently pursuing third year of engineering
+            Currently pursuing third year of engineering in Computer Science
           </h2>
-          <h2 class="cs">in Computer Science</h2>
+          {/* <h2 class="cs">in Computer Science</h2> */}
 
           <br />
-          <h2>
-            <img
-              className="motion"
-              src="https://img.icons8.com/external-xnimrodx-lineal-gradient-xnimrodx/64/000000/external-working-virus-xnimrodx-lineal-gradient-xnimrodx.png"
-              alt="programmer working"
-            />
-            Interning at <u>Brane Enterprises</u> as the Platform
-          </h2>
-          <h2 class="qa">QA Engineer</h2>
           <br />
+
+          <img
+            className="motion"
+            src="https://img.icons8.com/external-xnimrodx-lineal-gradient-xnimrodx/64/000000/external-working-virus-xnimrodx-lineal-gradient-xnimrodx.png"
+            alt="programmer working"
+          />
           <h2>
-            <img
-              className="motion"
-              src="https://img.icons8.com/external-xnimrodx-lineal-gradient-xnimrodx/64/000000/external-workout-hobbies-and-free-time-xnimrodx-lineal-gradient-xnimrodx.png"
-              alt="passion icon"
-            />
-            &nbsp;Passionate about fitness,bikes and entrepreneurship
+            Interning at <u>Brane Enterprises</u> as the Platform QA Engineer
+          </h2>
+          {/* <h2 class="qa">QA Engineer</h2> */}
+          <br />
+          <br />
+
+          <img
+            className="motion"
+            src="https://img.icons8.com/external-xnimrodx-lineal-gradient-xnimrodx/64/000000/external-workout-hobbies-and-free-time-xnimrodx-lineal-gradient-xnimrodx.png"
+            alt="passion icon"
+          />
+          <h2>
+            Passionate about fitness, enthusiastic about motorcycles and touring
+            .A curious soul about History and mankind.
           </h2>
           <br />
-          <h2>
-            <img
-              className="motion"
-              src="https://img.icons8.com/color/64/000000/india.png"
-              alt="india flag"
-            />
-            &nbsp;From Bengaluru,India
-          </h2>
+          <br />
+          <img
+            className="motion"
+            src="https://img.icons8.com/color/64/000000/india.png"
+            alt="india flag"
+          />
+          <h2>From Bengaluru,India</h2>
         </div>
       </div>
     </div>
