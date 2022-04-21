@@ -106,7 +106,7 @@ u:hover {
   }
 
   .intro {
-    height: 1200px;
+    height: 1300px;
   }
 
   .intro h3 {
@@ -126,9 +126,10 @@ u:hover {
   }
 
   .brief-intro {
-    margin-right: -103px;
-    margin-left: 10px;
+    margin-right: -39px;
+    margin-left: 5px;
     text-align: start;
+    font-size: 10px !important;
   }
 
   /* .introBox {
