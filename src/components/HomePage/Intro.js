@@ -49,8 +49,8 @@ function Intro() {
             alt="passion icon"
           />
           <h2>
-            Passionate about fitness, enthusiastic about motorcycles and touring
-            .Never ending curiosity about History and mankind.
+            Passionate about fitness and weight training .Weekend rides on my
+            motorycle is my true unwinding.
           </h2>
           <br />
           <br />
