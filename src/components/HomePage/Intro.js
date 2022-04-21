@@ -50,7 +50,7 @@ function Intro() {
           />
           <h2>
             Passionate about fitness, enthusiastic about motorcycles and touring
-            .A curious soul about History and mankind.
+            .Never ending curiosity about History and mankind.
           </h2>
           <br />
           <br />

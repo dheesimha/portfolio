@@ -106,7 +106,7 @@ u:hover {
   }
 
   .intro {
-    height: 1100px;
+    height: 1800px;
   }
 
   .intro h3 {
@@ -114,24 +114,24 @@ u:hover {
   }
 
   .introBox {
-    text-align: center !important;
-    margin-left: -105px;
+    /* text-align: center !important; */
+    margin-left: -85px;
+    text-align: center;
   }
 
   h2 {
     display: inline-block;
-    text-align: center !important;
+    /* text-align: center !important; */
   }
 
   .brief-intro {
     margin-right: 3px;
-    margin-left: 9px;
-    /* height: 600px; */
-    /* margin: auto; */
+    margin-left: 45px;
+    text-align: start;
   }
 
-  .introBox {
+  /* .introBox {
     margin: auto;
-    margin-left: 50px;
-  }
+    margin-left: 10px;
+  } */
 }
