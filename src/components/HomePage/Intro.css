@@ -100,7 +100,7 @@ u:hover {
   padding-left: 75px;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 800px) and (orientation: portrait) {
   .hero-image img {
     visibility: hidden;
   }
