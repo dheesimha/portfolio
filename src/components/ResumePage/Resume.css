@@ -22,7 +22,7 @@
 
 @media screen and (max-width: 800px) {
   .resume-section {
-    border: 2px solid green;
+    /* border: 2px solid green;  */
     height: max-content;
   }
   .resume-mobile {
@@ -43,8 +43,7 @@
   }
 
   .resume-mobile:hover {
-    border-color: white !important;
-    color: #5d9aff !important;
+    border-color: grey !important;
   }
 
   .resume {
