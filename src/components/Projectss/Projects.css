@@ -1,3 +1,7 @@
+.projects {
+  height: fit-content;
+}
+
 .project-section {
   margin-top: 10px;
   height: 90px;
@@ -98,4 +102,44 @@
   height: 300px;
   border: 2px solid white;
   margin-bottom: 45px;
+}
+
+@media screen and (max-width: 800px) {
+  .projects {
+    height: 1900px !important;
+  }
+  .btc-img,
+  .cfg-img,
+  .rpa-img,
+  .networking-img {
+    width: 300px;
+    height: 200px;
+  }
+
+  .project1-content,
+  .project2-content {
+    margin: 2px;
+  }
+
+  .project1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .project1-content {
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+
+  .project1-content h2 {
+    font-size: 42px !important;
+  }
+
+  .project1-content h1 {
+    font-size: 52px !important;
+    line-height: 50px;
+  }
 }

@@ -14,7 +14,9 @@ function Projects() {
             <img className="btc-img" src="/btc-image.jpg" alt="bitcoin" />
           </div>
           <div className="project1-content">
-            <h1>DeCrypt</h1>
+            <h1>
+              <em> DeCrypt</em>
+            </h1>
             <h2>Project Description</h2>
             <p>A customized collection of your wishlist cryptocurrencies.</p>
             <h2>Key features</h2>
@@ -57,7 +59,9 @@ function Projects() {
             <img className="cfg-img" src="/m2d.png" alt="mill2door logo" />
           </div>
           <div className="project1-content">
-            <h1>Mill2Door</h1>
+            <h1>
+              <em>Mill2Door</em>
+            </h1>
             <h2>Project Description</h2>
             <p>
               Designed, developed, and managed the frontend and the backend of
@@ -107,7 +111,9 @@ function Projects() {
             />
           </div>
           <div className="project1-content">
-            <h1>Stock recommendation system</h1>
+            <h1>
+              <em>Stock recommendation system</em>
+            </h1>
             <h2>Project Description</h2>
             <p>
               A recommendation system based on Robotic Process Automation to
@@ -148,7 +154,9 @@ function Projects() {
             />
           </div>
           <div className="project1-content">
-            <h1>Wired Campus Network</h1>
+            <h1>
+              <em>Wired Campus Network</em>
+            </h1>
             <h2>Project Description</h2>
             <p>
               Designed and developed a suitable network system for universities
