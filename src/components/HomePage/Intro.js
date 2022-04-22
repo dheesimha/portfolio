@@ -26,7 +26,6 @@ function Intro() {
           <h2>
             Currently pursuing third year of engineering in Computer Science
           </h2>
-          {/* <h2 class="cs">in Computer Science</h2> */}
 
           <br />
           <br />
@@ -39,7 +38,6 @@ function Intro() {
           <h2>
             Interning at <u>Brane Enterprises</u> as the Platform QA Engineer
           </h2>
-          {/* <h2 class="qa">QA Engineer</h2> */}
           <br />
           <br />
 

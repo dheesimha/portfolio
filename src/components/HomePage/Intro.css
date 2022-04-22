@@ -4,7 +4,6 @@
   line-height: 22px;
   height: 1000px;
   word-wrap: break-word;
-  /* overflow-x: hidden; */
 }
 .introBox {
   width: 100%;
@@ -13,7 +12,6 @@
 }
 
 .brief-intro {
-  /* border: 2px solid pink; */
   margin-right: 390px;
 }
 
@@ -55,10 +53,7 @@
   justify-content: center;
   align-items: center;
   background: transparent;
-  /* border: 2px solid white; */
   float: right;
-
-  /* padding-left: 70px; */
 }
 
 .motion {
@@ -116,14 +111,12 @@ u:hover {
   }
 
   .introBox {
-    /* text-align: center !important; */
     margin-left: -115px;
     text-align: center;
   }
 
   h2 {
     display: inline-block;
-    /* text-align: center !important; */
   }
 
   .brief-intro {
@@ -132,9 +125,4 @@ u:hover {
     text-align: start;
     font-size: 10px !important;
   }
-
-  /* .introBox {
-    margin: auto;
-    margin-left: 10px;
-  } */
 }
