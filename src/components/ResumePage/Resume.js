@@ -15,22 +15,11 @@ function Resume() {
         height="800px"
       ></iframe>
 
-      <iframe
-        className="resume-mobile"
-        title="resume"
-        src={resume}
-        width="300px"
-        height="400px"
-      ></iframe>
-      {/* 
-      <iframe
-        title="resume"
-        src="https://onedrive.live.com/embed?cid=14937615CB048571&resid=14937615CB048571%21244824&authkey=ADom_BgXEgnmF84&em=2"
-        width="850"
-        height="800"
-        frameborder="0"
-        scrolling="no"
-      ></iframe> */}
+      <button className="resume-mobile">
+        <a href="https://pdfhost.io/v/oaPGwu0Kl_Dheemanth_AN_resume">
+          Click to view/download my resume
+        </a>
+      </button>
     </div>
   );
 }

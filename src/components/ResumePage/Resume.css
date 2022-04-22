@@ -17,11 +17,42 @@
 }
 
 .resume-mobile {
-  visibility: hidden;
+  display: none;
 }
 
 @media screen and (max-width: 800px) {
+  .resume-section {
+    border: 2px solid green;
+    height: max-content;
+  }
   .resume-mobile {
-    visibility: visible;
+    margin-top: 90px;
+    display: block;
+    border: 3px solid rgb(0, 0, 0);
+    box-shadow: 5px 0px 23px 10px rgb(0, 0, 0);
+    font-size: 25px;
+    padding: 5px;
+    cursor: pointer !important;
+    color: #5d9aff;
+    border-radius: 5px;
+    transition: 0.3s;
+  }
+
+  .resume-mobile a {
+    cursor: pointer;
+  }
+
+  .resume-mobile:hover {
+    border-color: white !important;
+    color: #5d9aff !important;
+  }
+
+  .resume {
+    display: none;
+  }
+
+  .resumeTitle {
+    font-size: 30px;
+    margin-top: 30px;
   }
 }
