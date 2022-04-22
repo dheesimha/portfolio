@@ -22,7 +22,6 @@
 
 @media screen and (max-width: 800px) {
   .resume-section {
-    /* border: 2px solid green;  */
     height: max-content;
   }
   .resume-mobile {
@@ -51,7 +50,11 @@
   }
 
   .resumeTitle {
-    font-size: 30px;
+    font-size: 50px;
     margin-top: 30px;
+    line-height: 55px;
+    padding: 14px;
+    /* justify-content: center; */
+    text-align: center;
   }
 }
