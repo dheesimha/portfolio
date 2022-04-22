@@ -3,6 +3,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  overflow-x: hidden;
 }
 
 .resumeTitle {
@@ -13,4 +14,14 @@
 
 .resume {
   margin-top: 12px;
+}
+
+.resume-mobile {
+  visibility: hidden;
+}
+
+@media screen and (max-width: 800px) {
+  .resume-mobile {
+    visibility: visible;
+  }
 }

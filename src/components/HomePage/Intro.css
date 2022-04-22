@@ -4,6 +4,7 @@
   line-height: 22px;
   height: 1000px;
   word-wrap: break-word;
+  overflow-x: hidden;
 }
 .introBox {
   width: 100%;
