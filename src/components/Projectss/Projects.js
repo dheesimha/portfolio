@@ -153,7 +153,7 @@ function Projects() {
               alt="network of computers"
             />
           </div>
-          <div className="project1-content">
+          <div className="project1-content last-content">
             <h1>
               <em>Wired Campus Network</em>
             </h1>

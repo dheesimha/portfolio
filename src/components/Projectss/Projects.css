@@ -142,4 +142,12 @@
     font-size: 52px !important;
     line-height: 50px;
   }
+
+  .last-content {
+    margin-bottom: 80px;
+  }
+
+  ul {
+    list-style: none;
+  }
 }
