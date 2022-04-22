@@ -7,7 +7,9 @@ function About() {
       <h1 className="about-title">About Me</h1>
 
       <div className="professional">
-        <h1>Professional front</h1>
+        <h1>
+          <em>Professional front</em>
+        </h1>
 
         <p>
           Throughout my engineering years, I have realized an important fact
@@ -36,7 +38,9 @@ function About() {
       </div>
       <hr />
       <div className="personal">
-        <h1>Personal front</h1>
+        <h1>
+          <em>Personal front</em>
+        </h1>
         <p>
           One of the best moments or the journey I have been a part of, in my
           life has to be me starting a digital marketing startup in the first
