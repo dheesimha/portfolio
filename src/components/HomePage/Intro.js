@@ -36,8 +36,9 @@ function Intro() {
             alt="programmer working"
           />
           <h2>
-            Interning at <u>Brane Enterprises</u> as the Platform QA Engineer
+            Summer Intern at <u>J.P. Morgan Chase & Co.</u>
           </h2>
+
           <br />
           <br />
 
