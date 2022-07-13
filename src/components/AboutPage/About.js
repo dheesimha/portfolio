@@ -25,11 +25,25 @@ function About() {
           <br /> <br />I am building and learning web apps with MERN stack and
           striving to get better at developing a fully functional and efficient
           website that would solve the problem it was intended to build. <br />
-          <br />I am currently interning at Brane Enterprises[NSL HUB] as the
-          Quality Assurance Intern, where my responsibility is to ensure that
-          the platform is up and running all the time. I have also worked in
-          manual testing, API automation testing where I was assigned over 950+
-          test cases along with writing scripts to automate test cases.
+          <br />
+          I have recently completed my internship at J.P. Morgan Chase &
+          Co,where I was part of JPMC's Global Real Estate Team and worked on an
+          internal Property management website for JPMC's clients. I Worked on
+          an entire project lifecycle, right from understanding requirements,
+          planning, development, testing, and deployment. I built an API to
+          replace the previously hard-coded value in the frontend application to
+          now fetch the value from the database and help in future scalability.
+          I am glad that I got to work on a real-time, deployed project, housing
+          many Fortune 500 companies' assets and properties, and enhanced the
+          project by implementing a well-tested scalable, and robust API for
+          seamless changes and updates.
+          <br />
+          <br />I have also completed my internship at Brane Enterprises[NSL
+          HUB] as the Quality Assurance Intern, where my responsibility was to
+          ensure that the platform is up and running all the time. I have also
+          worked in manual testing, API automation testing where I was assigned
+          over 950+ test cases along with writing scripts to automate test
+          cases.
           <br /> <br /> I bagged an internship from J.P Morgan Chase and Co.
           when I was in the second year of my college after building a product
           in just 24 hours in the annual Code For Good hackathon where there

@@ -11,6 +11,58 @@ function Projects() {
       <div className="project-content">
         <div className="project1">
           <div className="project1-image">
+            <img
+              className="acl-img"
+              src="/anticorruption.jpg"
+              alt="AntiCorruption Ledger logo"
+            />
+          </div>
+          <div className="project1-content">
+            <h1>
+              <em> AntiCorruption Ledger [Blockchain and Web3]</em>
+            </h1>
+            <h2>Project Description</h2>
+            <p>
+              An end-to-end, foolproof ledger that can track all the incoming
+              and outgoing transactions pertaining to a cause..
+            </p>
+            <h2>Key features</h2>
+            <ul>
+              <li>
+                This blockchain-based web app allows users to track where their
+                money is being spent which is often a question mark whenever a
+                user makes a donation to an NGO or a cause.
+              </li>
+              <li>
+                The primary use case is to achieve 100% transparency and
+                eliminate corruption completely in donations and legal tenders.
+              </li>
+            </ul>
+            <h2>Tech stack </h2>
+            <ul>
+              <li>
+                Languages/ Frameworks: ReactJS,NodeJS,Solidity,CSS,Express
+              </li>
+              <li>
+                Other Tools: Axios Library,Truffle Suite,Ganache[Local
+                Blockchain],Ethers js library,Metamask ,Remix IDE,Json- Server
+              </li>
+            </ul>
+            <h2>View project</h2>
+            <p>
+              <a
+                href="https://github.com/dheesimha/anticorruptionledger"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Click to view the project on Github
+              </a>
+            </p>
+          </div>
+        </div>
+        <hr />
+        <div className="project1">
+          <div className="project1-image">
             <img className="btc-img" src="/btc-image.jpg" alt="bitcoin" />
           </div>
           <div className="project1-content">
@@ -51,7 +103,6 @@ function Projects() {
             </p>
           </div>
         </div>
-
         <hr />
 
         <div className="project1">

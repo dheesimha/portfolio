@@ -36,7 +36,7 @@ function Intro() {
             alt="programmer working"
           />
           <h2>
-            Summer Intern at <u>J.P. Morgan Chase & Co.</u>
+            Ex Summer Intern at <u>J.P. Morgan Chase & Co.</u>
           </h2>
 
           <br />

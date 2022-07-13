@@ -92,7 +92,8 @@
 .btc-img,
 .cfg-img,
 .rpa-img,
-.networking-img {
+.networking-img,
+.acl-img {
   margin: 20px;
   width: 500px;
   height: 300px;
@@ -107,7 +108,8 @@
   .btc-img,
   .cfg-img,
   .rpa-img,
-  .networking-img {
+  .networking-img,
+  .acl-img {
     width: 300px;
     height: 200px;
   }

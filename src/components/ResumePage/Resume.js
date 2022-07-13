@@ -16,7 +16,11 @@ function Resume() {
       ></iframe>
 
       <button className="resume-mobile">
-        <a href="https://pdfhost.io/v/oaPGwu0Kl_Dheemanth_AN_resume">
+        <a
+          href="https://pdfhost.io/v/VRZnuJV1s_Dheemanth_AN_resume"
+          target="_blank"
+          rel="noreferrer"
+        >
           Click to view/download my resume
         </a>
       </button>
