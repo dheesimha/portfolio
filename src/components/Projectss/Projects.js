@@ -12,6 +12,67 @@ function Projects() {
         <div className="project1">
           <div className="project1-image">
             <img
+              className="tr-img"
+              src="/thoughtroom-img.png"
+              alt="ThoughtRoom"
+            />
+          </div>
+          <div className="project1-content">
+            <h1>
+              <em> ThoughtRoom</em>
+            </h1>
+            <h2>Project Description</h2>
+            <p>
+              A blogging web app powered by REST architecture and a platform to
+              study, comprehend, like and share thoughts and ideas. Designed
+              with an elegant UI/UX and a seamless platform to blog about a
+              multitude of topics.
+            </p>
+            <h2>Key features</h2>
+            <ul>
+              <li>
+                An interface to create content and share ideas ,submission
+                creates a POST request to the backend.
+              </li>
+              <li>
+                Feature to like a thought which on click updates the number of
+                likes via a PATCH request.
+              </li>
+              <li>
+                Global state management via Redux and token based authentication
+                and authorization via JWT
+              </li>
+            </ul>
+            <h2>Tech stack </h2>
+            <ul>
+              <li>
+                Languages/Frameworks:
+                ReactJS,ExpressJS,NodeJS,MongoDB,Mongoose,Redux+Redux Toolkit
+                for State Management
+              </li>
+              <li>
+                Implementation: JWT token based authentication and authorization
+                along with refresh tokens,database password hashing using
+                bCrypt,CORS,cross-environment development,protected routes and
+                deployment via Railway.
+              </li>
+            </ul>
+            <h2>View project</h2>
+            <p>
+              <a
+                href="https://thoughtroom.up.railway.app/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Click to view the project on Github
+              </a>
+            </p>
+          </div>
+        </div>
+        <hr />
+        <div className="project1">
+          <div className="project1-image">
+            <img
               className="acl-img"
               src="/anticorruption.jpg"
               alt="AntiCorruption Ledger logo"
@@ -24,7 +85,7 @@ function Projects() {
             <h2>Project Description</h2>
             <p>
               An end-to-end, foolproof ledger that can track all the incoming
-              and outgoing transactions pertaining to a cause..
+              and outgoing transactions pertaining to a cause.
             </p>
             <h2>Key features</h2>
             <ul>
