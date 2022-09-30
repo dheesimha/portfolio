@@ -17,7 +17,7 @@ function Resume() {
 
       <button className="resume-mobile">
         <a
-          href="https://pdfhost.io/v/0m6FHif6u_Dheemanth_AN_resume"
+          href="https://pdfhost.io/v/NrcipHl68_Dheemanth_AN_resume"
           target="_blank"
           rel="noreferrer"
         >
