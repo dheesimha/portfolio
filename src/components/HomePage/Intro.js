@@ -24,7 +24,8 @@ function Intro() {
             alt="hat"
           />
           <h2>
-            Currently pursuing third year of engineering in Computer Science
+            Final year student pursuing Bachelor's Of Engineering in Computer
+            Science
           </h2>
 
           <br />
