@@ -20,25 +20,21 @@ function Intro() {
         <div className="brief-intro">
           <img
             className="motion"
-            src="https://img.icons8.com/external-xnimrodx-lineal-gradient-xnimrodx/64/000000/external-graduation-cap-education-xnimrodx-lineal-gradient-xnimrodx-2.png"
-            alt="hat"
+            src="https://img.icons8.com/external-xnimrodx-lineal-gradient-xnimrodx/64/000000/external-working-virus-xnimrodx-lineal-gradient-xnimrodx.png"
+            alt="programmer working"
           />
-          <h2>
-            Final year student pursuing Bachelor's Of Engineering in Computer
-            Science
-          </h2>
+
+          <h2>SDE at J.P. Morgan Chase & Co</h2>
 
           <br />
           <br />
 
           <img
             className="motion"
-            src="https://img.icons8.com/external-xnimrodx-lineal-gradient-xnimrodx/64/000000/external-working-virus-xnimrodx-lineal-gradient-xnimrodx.png"
-            alt="programmer working"
+            src="https://img.icons8.com/external-xnimrodx-lineal-gradient-xnimrodx/64/000000/external-graduation-cap-education-xnimrodx-lineal-gradient-xnimrodx-2.png"
+            alt="hat"
           />
-          <h2>
-            Ex Summer Intern at <u>J.P. Morgan Chase & Co.</u>
-          </h2>
+          <h2>AWS Certified Developer Associate & Cloud Practitioner</h2>
 
           <br />
           <br />
@@ -49,8 +45,8 @@ function Intro() {
             alt="passion icon"
           />
           <h2>
-            Passionate about fitness and weight training .Weekend rides on my
-            motorycle is my true unwinding.
+            Passionate about fitness, weight training, motorcycling and
+            exploring offroad trails
           </h2>
           <br />
           <br />
