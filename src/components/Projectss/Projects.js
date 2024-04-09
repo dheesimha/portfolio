@@ -64,7 +64,7 @@ function Projects() {
                 target="_blank"
                 rel="noreferrer"
               >
-                Click to view the project on Github
+                Click to view the project
               </a>
             </p>
           </div>
