@@ -13,6 +13,63 @@ function Projects() {
           <div className="project1-image">
             <img
               className="tr-img"
+              src="/kickstarter-thumbnail.jpg"
+              alt="ThoughtRoom"
+            />
+          </div>
+          <div className="project1-content">
+            <h1>
+              <em> Kickstarter</em>
+            </h1>
+            <h2>Project Description</h2>
+            <p>
+              An AI tool for investors to assess startups. The investors and VCs
+              can validate whether their investment in a particular company
+              would turn out to be successful or not based on fundamentals and
+              financial data.
+            </p>
+            <h2>Key features</h2>
+            <ul>
+              <li>
+                Implementation of Random Forest Algorithm, with an accuracy of
+                85.9% in the results provided. Model pickled and implemented as
+                REST endpoint.
+              </li>
+              <li>
+                A graphical comparison of the current company’s stats with the
+                companies that proved to be a good investment, covering
+                important parameters.
+              </li>
+              <li>
+                A final verdict provided to the end user with an appropriate
+                reasoning.
+              </li>
+            </ul>
+            <h2>Tech stack </h2>
+            <ul>
+              <li>
+                Languages/Frameworks: Python, scikit-learn,
+                TensorFlow,uvicorn,Sveltekit, MongoDB, Mongoose, Tailwind CSS,
+                Railway, FastAPI
+              </li>
+            </ul>
+            <h2>View project</h2>
+            <p>
+              <a
+                href="https://kickstarter-ai.netlify.app/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Click to view the project
+              </a>
+            </p>
+          </div>
+        </div>
+        <hr />
+        <div className="project1">
+          <div className="project1-image">
+            <img
+              className="tr-img"
               src="/thoughtroom-img.png"
               alt="ThoughtRoom"
             />
